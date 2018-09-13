@@ -1,0 +1,17 @@
+
+序号,分类,描述,
+1,/System_Compromise,-,/系统损害,
+2,/System_Compromise/Syntax_Error,-,/系统损害/应用出错,
+3,/System_Compromise/Policy_Breach,-,/系统损害/策略破坏,
+4,/Exploitation_Installation,-,/安装&植入,
+5,/Exploitation_Installation/CovertChannel,-,/安装&植入/隐藏,
+6,/Exploitation_Installation/Code,-,/安装&植入/后门程序,
+7,/Delivery_attack,-,/传送&攻击,
+8,/Delivery_attack/TrafficAnomaly,-,/传送&攻击/畸形流量,
+9,/Delivery_attack/DoS,-,/传送&攻击/拒绝服务,
+10,/Delivery_attack/Service,-,/传送&攻击/服务访问,
+11,/Delivery_attack/Redirection,-,/传送&攻击/重定向,
+12,/Reconnaissance_Probing,-,/侦查&探测,
+13,/Reconnaissance_Probing/Vulnerability,-,/侦查&探测/漏洞利用,
+14,/Reconnaissance_Probing/Scan,-,/侦查&探测/扫描,
+15,/Others,-,/其它

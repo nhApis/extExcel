@@ -1,0 +1,10 @@
+
+序号,分类,-,描述,
+1,/RuleEngine/OnLine,-,规则引擎/实时,
+2,/RuleEngine/OffLine,-,规则引擎/离线,
+3,/InteractiveAnalysis,-,交互式分析,
+4,/ModelAnalysis/WebShell,-,模型/WEBSHELL检测(单页面),
+5,/ModelAnalysis/SingleUser,-,模型/Web异常用户检测模型,
+6,/TiAnalysis/AssetFilterAnalysis,-,威胁情报分析/资产筛选,
+7,/TiAnalysis/AssetVulAnalysis,-,威胁情报分析/漏洞情报分析,
+8,/TiAnalysis/IntelligenceCorrelationAnalysis,-,威胁情报分析/情报关联分析
