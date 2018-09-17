@@ -1,0 +1,7 @@
+
+序号,分类,-,描述,
+1,windows,-,Windows操作系统,
+2,linux,-,Linux操作系统,
+3,unix,-,Unix操作系统,
+4,macos,-,Mac操作系统,
+5,ESXI,-,vmware裸金属系统
